@@ -10,7 +10,7 @@ Computer Engineering student at Memorial University (Class of 2029), currently h
 - **Concepts:** data structures, algorithms, complexity analysis, OOP
 
 ## A few things I've built
-- **Embedded flight scripts @ Valiant Aerotech** — Python for onboard systems doing real-time data processing and automation of flight-critical operations
+- **Valiant Aerotech (Memorial design team)** — member of the software team, which develops embedded Python for onboard UAV systems and uses Mission Planner for telemetry and autonomous flight planning
 - **Python Blackjack Game** — an Arduino-controlled blackjack game with adjustable wagers, credit-tracking, and hit/stand/double-down, built with a partner
 - **2-Bit ALU Circuit** — designed and breadboarded a 2-bit adder + ALU, tested every input combination and debugged it to spec
 
