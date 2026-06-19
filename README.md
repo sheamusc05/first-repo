@@ -1,4 +1,3 @@
-# sheamuscarroll
 # Hi, I'm Sheamus 👋
 
 Computer Engineering student at Memorial University (Class of 2029), currently hunting for a **Fall 2026 co-op term**. I like turning messy problems into clean, working code — whether that's automating flight systems or wrangling 10,000 rows of campaign data.
